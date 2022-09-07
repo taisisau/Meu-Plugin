@@ -1,0 +1,20 @@
+/**
+*
+*Este arquivo contém o style do plugin.
+*
+*/
+
+* {
+    margin: 4px;
+    background-color:#707070;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    font-family: Roboto, Helvetica, sans-serif;
+    margin-bottom:10px;
+    border:1px;
+    border-radius:5px;
+}
+.content{display:flex;justify-content: center}
+.form-control {width: 100%;margin-bottom: 10px;}
+.pull-right {float: right;}
